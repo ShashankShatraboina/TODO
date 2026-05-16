@@ -24,9 +24,8 @@ Users can create and manage tasks easily through the interface. Tasks can be upd
 ## Installation
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/ShashankShatraboina/TODO.git
 cd TODO
-pip install -r requirements.txt
 ````
 
 ## Run the Project
