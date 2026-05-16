@@ -28,11 +28,6 @@ git clone https://github.com/ShashankShatraboina/TODO.git
 cd TODO
 ````
 
-## Run the Project
-
-```bash id="5kbhc4"
-python app.py
-```
 
 ## Future Improvements
 
